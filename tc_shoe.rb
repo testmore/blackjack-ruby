@@ -1,6 +1,6 @@
 #!/usr/bin/ruby -w
-require 'test/unit'
-require 'Shoe'
+require_relative 'test/unit'
+require_relative 'Shoe'
 
 class TestShoe < Test::Unit::TestCase
 

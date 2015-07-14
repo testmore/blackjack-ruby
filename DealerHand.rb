@@ -1,4 +1,4 @@
-require 'Hand'
+require_relative 'Hand'
 
 # = Description
 #

@@ -28,7 +28,7 @@
 
 require 'getoptlong'
 #require 'rdoc/usage'
-require 'BlackJackGame'
+require_relative 'BlackJackGame'
 
 def usage
   puts

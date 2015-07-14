@@ -1,9 +1,9 @@
-require 'BlackJackIO'
-require 'Shoe'
-require 'Player'
-require 'Dealer'
-require 'Hand'
-require 'DealerHand'
+require_relative 'BlackJackIO'
+require_relative 'Shoe'
+require_relative 'Player'
+require_relative 'Dealer'
+require_relative 'Hand'
+require_relative 'DealerHand'
 
 # = Description
 #

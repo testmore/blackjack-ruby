@@ -1,4 +1,4 @@
-require 'Card'
+require_relative 'Card'
 
 # = Description
 # This class represents a single hand of BlackJack.

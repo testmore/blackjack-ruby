@@ -1,4 +1,4 @@
-require 'Player'
+require_relative 'Player'
 
 # = Description
 #

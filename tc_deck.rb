@@ -1,6 +1,6 @@
 #!/usr/bin/ruby -w
-require 'Deck'
-require 'test/unit'
+require_relative 'Deck'
+require_relative 'test/unit'
 
 # = Description
 #

@@ -1,4 +1,4 @@
-require 'Card'
+require_relative 'Card'
 
 # = Description
 #

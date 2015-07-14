@@ -1,5 +1,5 @@
-require 'CardSuits'
-require 'CardSymbols'
+require_relative 'CardSuits'
+require_relative 'CardSymbols'
 
 # = Description
 #
